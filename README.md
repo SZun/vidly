@@ -46,4 +46,3 @@ npm run test
 ## Authors
 
 * **Sam G. Zun** - [SZun](https://github.com/SZun)
-ation
